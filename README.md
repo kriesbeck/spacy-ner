@@ -1,6 +1,8 @@
 # Named entity recognition (NER) in spaCy
 29 May 2020
   
+Check out the [NER in spaCy notebook!](https://nbviewer.jupyter.org/github/kriesbeck/spacy-ner/blob/master/NER%20in%20spaCy.ipynb "NER in spaCy")
+
 The 'NER in spaCY' notebook reviews named entity recognition (NER) in spaCy using:
 * Pretrained spaCy models
 * Customized NER with:
